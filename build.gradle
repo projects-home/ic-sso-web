@@ -316,5 +316,5 @@ dependencies {
 
 
 war{
-    baseName  "ic-sso"
+    baseName  "ic-sso-web"
 }
